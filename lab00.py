@@ -13,7 +13,7 @@ def main():
       print(num)
       
    # call a function
-   numFound = char_count(y, 'l')   
+   numFound = char_count('hello', 'l')   
    print("Found:", numFound)
    
    # a counting for loop
